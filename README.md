@@ -66,6 +66,8 @@ spark submit --version
 Run the script by 
 spark-submit fakenews.py
 
+```
+
 
 
 After running, you will find:
